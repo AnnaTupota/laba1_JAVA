@@ -58,7 +58,7 @@ public class Main
             System. out.println( " её длина = " + str[i].length());
         }
         System. out.println( " А теперь учтём первую букву и отсортируем по алфавиту");
-        Arrays.sort(str);
+        
         for ( int i = 0; i < str. length ; i++)
         {
             System.out.print(str[i]);
